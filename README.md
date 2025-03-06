@@ -22,7 +22,7 @@
 
 ## 🚀 Proyectos Destacados
 
-🔹 [**Lista_Palabras**](https://github.com/stivenpe/Lista_Palabras) - Aplicación en Java para gestionar listas de palabras.
+🔹 [**Lista_Palabras**](https://github.com/stivenpe/-Lista_Palabras) - Aplicación en Java para gestionar listas de palabras.
 
 🔹 [**Bases_de_Datos**](https://github.com/stivenpe/Bases_de_Datos) - Repositorio con ejercicios y prácticas sobre bases de datos.
 
@@ -32,7 +32,7 @@
 
 🔹 [**Gestion_Estudiantes**](https://github.com/stivenpe/Gestion_Estudiantes) - Aplicación en Java para gestionar información de estudiantes.
 
-🔹 [**HOJA-DE-VIDA**](https://github.com/stivenpe/HOJA-DE-VIDA) - Plantilla en HTML para crear hojas de vida profesionales.
+🔹 [**ejercicio_python**](https://github.com/stivenpe/ejerciciospython) - Plantilla en HTML para crear hojas de vida profesionales.
 
 ---
 
@@ -48,7 +48,7 @@
 
 ### 🌐 **Portafolio**
 Puedes ver más sobre mi trabajo en mi portafolio personal:  
-🔗 **[Mi Portafolio](https://tuportafolio.com)**
+🔗 **[Mi Portafolio]()**
 
 ---
 
@@ -68,9 +68,9 @@ Puedes ver más sobre mi trabajo en mi portafolio personal:
 
 Si quieres colaborar en algún proyecto o simplemente charlar sobre tecnología, ¡no dudes en contactarme!
 
-📧 **Correo**: _[Tu email aquí]_  
-💼 **LinkedIn**: _[Tu perfil aquí]_  
-🌐 **Portafolio**: _[https://tuportafolio.com]_  
+📧 **Correo**: _[perezjeisson003@gmail.com]_  
+💼 **LinkedIn**: _[https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile]_  
+🌐 **Portafolio**: _[]_  
 
 [![](https://visitcount.itsvg.in/api?id=stivenpe&icon=0&color=0)](https://visitcount.itsvg.in)
 
